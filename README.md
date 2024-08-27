@@ -175,3 +175,5 @@ The project replicated the cooperative efforts of two contributors utilizing Git
 
 Following the integration of contributions from both Morgan and Jamie, the Greenwood Community Library website has been enhanced to feature a new "Book Reviews" section, along with an updated "Events" page that showcases the most recent community happenings.
 
+  - Open any of the .html files in a web browser to view the pages.
+   ![Open greenwood library website in browser](./img/27.png)
